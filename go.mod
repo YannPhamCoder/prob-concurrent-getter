@@ -1,3 +1,3 @@
-module git.bybit.com/gtd/gopkg/solutions/prob-concurrent-getter
+module xxxx
 
 go 1.16
